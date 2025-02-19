@@ -1,5 +1,5 @@
 <h1 align="justify">Hi 👋, I'm Navodya Divyanjali</h1>
-<h3 align="justify">A passionate Full-Stack Developer with a love for clean code and seamless user experiences, I specialize in building dynamic web applications using modern technologies. From frontend design to backend architecture, I enjoy crafting efficient, scalable, and maintainable solutions.</h3>
+<h3 align="left">A passionate Full-Stack Developer with a love for clean code and seamless user experiences, I specialize in building dynamic web applications using modern technologies. From frontend design to backend architecture, I enjoy crafting efficient, scalable, and maintainable solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanjali2&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjali2" /> </p>
 
