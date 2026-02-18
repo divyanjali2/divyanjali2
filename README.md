@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanjali2&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjali2" /> </p>
 
-- 🔭 I’m currently working as a **Software Enginner Intern**
+- 🔭 I’m currently working as a **Associate Software Enginner**
 
 - 😊 Pronouns [she/her](she/her)
 
