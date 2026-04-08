@@ -1,77 +1,96 @@
-<h1 align="left">Hi 👋, I'm Navodya Divyanjali</h1>
-<h3 align="justify">A passionate Full-Stack Developer with a love for clean code and seamless user experiences, I specialize in building dynamic web applications using modern technologies. From frontend design to backend architecture, I enjoy crafting efficient, scalable, and maintainable solutions.</h3>
+<h1 align="center">Hi 👋, I'm Navodya Divyanjali</h1>
+<h3 align="center">💻 Full-Stack Developer | 🚀 Building Scalable & Modern Web Apps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanjali2&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjali2" /> </p>
-
-- 🔭 Currently working as an **Associate Software Engineer**
-
-- 😊 Pronouns [she/her](she/her)
-
-- 📫 How to reach me **navodyadivyanjali2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/navodyadivyanjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/navodyadivyanjali" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nav.o?utm_source=qr&igsh=mwvrehvucxpxdtnnoq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nav.o?utm_source=qr&igsh=mwvrehvucxpxdtnnoq==" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=divyanjali2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-<!-- C# -->
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+## 🌟 About Me
+
+✨ Passionate Full-Stack Developer who loves crafting clean, efficient, and scalable solutions  
+💡 I enjoy turning ideas into real-world applications  
+🎯 Focused on delivering seamless user experiences  
+
+- 🔭 Currently working as **Associate Software Engineer**
+- 🌱 Currently exploring **Cloud, DevOps & Modern JS frameworks**
+- 💬 Ask me about **Web Development, APIs, System Design**
+- 📫 Reach me at: **navodyadivyanjali2@gmail.com**
+- 😊 Pronouns: **she/her**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/navodyadivyanjali" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Navodya-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<!-- C++ -->
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<a href="https://www.instagram.com/nav.o" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-nav.o-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
-<!-- Java -->
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<!-- Angular -->
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</a>
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<!-- Laravel -->
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-</a>
-
-<!-- PHP -->
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<!-- AWS -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-
-<!-- Docker (CI/CD support) -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<!-- Jenkins (CI/CD) -->
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-
-<!-- Kubernetes -->
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
 </p>
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,php,js,ts,python,go,rust" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,html,css" />
+</p>
+
+### 🧠 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,dotnet" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
+</p>
+
+---
+
+## 🔥 Trending Technologies I'm Exploring
+
+🚀 **Next.js** – Modern React framework  
+⚡ **TypeScript** – Safer & scalable JavaScript  
+🧠 **AI Integration (OpenAI APIs)**  
+☁️ **Serverless (AWS Lambda)**  
+📦 **Microservices Architecture**  
+🦀 **Rust & Go** – High-performance backend systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=divyanjali2&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanjali2&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+✨ I believe *"Clean code is not just written, it's crafted."*
+
+---
+
+## 💡 Quote I Live By
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+---
